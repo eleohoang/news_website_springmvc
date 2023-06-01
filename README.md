@@ -1,6 +1,15 @@
 # news_website_springmvc
 A news website using Spring MVC with Maven project.
 
+# Home page
+![home_page](https://github.com/eleohoang/javacore/assets/78299978/c83adab7-94fd-46ba-94e0-6ccea70e1234)
+
+# Post detail
+![detail_post](https://github.com/eleohoang/javacore/assets/78299978/1be520a9-d9ea-46fb-b5f9-726461271293)
+
+# Comments
+![comments](https://github.com/eleohoang/javacore/assets/78299978/ff239b7a-1756-4a43-b2cb-56030f39e392)
+
 # login page
 ![login](https://github.com/eleohoang/javacore/assets/78299978/bfc37af1-2283-4fb1-aca9-710771692a84)
 
@@ -20,12 +29,4 @@ A news website using Spring MVC with Maven project.
 # Upload images
 ![upload_images](https://github.com/eleohoang/javacore/assets/78299978/ec423cbf-f90a-41f7-a9be-72b12de6a668)
 
-# Home page
-![home_page](https://github.com/eleohoang/javacore/assets/78299978/c83adab7-94fd-46ba-94e0-6ccea70e1234)
-
-# Post detail
-![detail_post](https://github.com/eleohoang/javacore/assets/78299978/1be520a9-d9ea-46fb-b5f9-726461271293)
-
-# Comments
-![comments](https://github.com/eleohoang/javacore/assets/78299978/ff239b7a-1756-4a43-b2cb-56030f39e392)
 
